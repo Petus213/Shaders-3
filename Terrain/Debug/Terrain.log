@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Terrain\src\Source.cpp(95,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Terrain\src\Source.cpp(101,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Terrain\src\Source.cpp(119,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Terrain\src\Source.cpp(120,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Terrain\src\Source.cpp(176,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Terrain\src\Source.cpp(177,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Terrain\src\Source.cpp(181,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Terrain\src\Source.cpp(182,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Terrain\src\Source.cpp(184,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Terrain\src\Source.cpp(185,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Terrain\src\Source.cpp(198,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Terrain.vcxproj -> C:\Users\Peter\Desktop\Pete's Uni\Year 3\Shaders Assignment\Terrain\Debug\Terrain.exe
